@@ -7,9 +7,9 @@ draft: false
 With the holidays fast approaching, I'm frustrated that Amazon wishlists are the only easy-to-use option for sharing gift ideas. Many of the things I want or need don't really justify linking to a product listing at a specific site (I know, I'm impossible to shop for). Instead, this page lists things I want but haven't purchased for myself. I'll try to keep this updated occasionally. 
 
 ### Emoji Key 
-- :dollar: less than $40 
-- :dollar::dollar: $40-100 
-- :dollar::dollar::dollar: $100+ 
+- :dollar: less than $40 <br>
+- :dollar::dollar: $40-100 <br>
+- :dollar::dollar::dollar: $100+ <br>
 - :moneybag::moneybag::moneybag: I want this but would feel guilty if someone spent this much on me. 
 
 # Computer Equipment 
@@ -36,9 +36,9 @@ I want to eventually upgrade to a Super-Ultrawide UHD monitor like the [Samsung 
 
 ### :dollar: electronic / tinkerer parts 
 I want to build a [Quinled Dig Uno](https://quinled.info/2020/05/08/quinled-dig-uno-hardware-guide-2/) board, but need a lot of the things on the hardware guide. 
-I have the: 
-- Quinled Dig Uno PCB 
-- Wemos D1 Mini microprocessor 
+I have the: <br>
+- Quinled Dig Uno PCB <br>
+- Wemos D1 Mini microprocessor <br>
 but need everything else on [this guide](https://quinled.info/2020/05/08/quinled-dig-uno-hardware-guide-2/)
 
 ### :dollar::dollar::dollar: 3D printer
@@ -80,12 +80,12 @@ I prefer non-fiction, political or political theory books. History is cool too.
 ### :dollar::dollar: Certification exam study books 
 Help me advance my career by getting me some of the cram guides for the exams I plan to take soon. 
 The ones I don't have books for are: 
-- CompTIA Server+ 
-- Cisco CCNA
+- CompTIA Server+ <br>
+- Cisco CCNA <br >
 
 # Charitable Donations 
-Donate to one of the organizations I'm passionate about: 
-- [Sensible Change Minnesota](https://changemn.org)
-- [Humantiy Forward](https://movehumanityforward.com/)
-- [Institute for Local Self Reliance](https://ilsr.org/)
-- [Students for Sensible Drug Policy](https://ssdp.org/)
+Donate to one of the organizations I'm passionate about: <br>
+- [Sensible Change Minnesota](https://changemn.org) <br>
+- [Humantiy Forward](https://movehumanityforward.com/) <br>
+- [Institute for Local Self Reliance](https://ilsr.org/) <br>
+- [Students for Sensible Drug Policy](https://ssdp.org/) <br>
