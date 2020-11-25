@@ -44,6 +44,18 @@ Farm Manager
 
 -----
 
+## Education 
+
+### August 2020 - Present <br>
+Management Information Systems <br>
+Bellevue University (Online) <br> 
+
+### August 2015 - December 2018 <br> 
+Political Science and Social Change <br> 
+Hamline University (St. Paul, MN) 
+
+-----
+
 ## Community Involvement
 
 ### Sensible Minnesota <br>
