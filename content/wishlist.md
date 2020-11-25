@@ -79,7 +79,7 @@ I prefer non-fiction, political or political theory books. History is cool too.
 
 ### :dollar::dollar: Certification exam study books 
 Help me advance my career by getting me some of the cram guides for the exams I plan to take soon. 
-The ones I don't have books for are: 
+The ones I don't have books for are: <br>
 - CompTIA Server+ <br>
 - Cisco CCNA <br >
 
