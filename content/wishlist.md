@@ -41,6 +41,8 @@ I have the: <br>
 - Wemos D1 Mini microprocessor <br>
 but need everything else on [this guide](https://quinled.info/2020/05/08/quinled-dig-uno-hardware-guide-2/)
 
+### :dollar::dollar: - :dollar::dollar::dollar: Car dashcam
+
 ### :dollar::dollar::dollar: 3D printer
 3D printing looks really neat and is something I'd like to get into. I haven't done much research into it, but have read that they're all basically the same. I don't think I'd need to print anything larger than 10"x10". 
 
