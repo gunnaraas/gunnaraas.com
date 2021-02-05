@@ -4,7 +4,7 @@ draft: false
 ---
 Here is a list of projects I am, or have, worked with. Mostly published here to keep track of everything.
 
-# Active Projects
+# Community Service Projects
 
 ## Sensible Change Minnesota
 Launched a 501(c)4 affiliate to Sensible Minnesota in late 2018. Currently serving as Treasurer to the Board of Directors. My primary responsibility with this organization is fundraising and donor relations, however, I also assist with digital content creation and spend time lobbying on behalf of the organization at the Minnesota State Capital.
@@ -21,7 +21,12 @@ I helped launch the Twin Cities chapter of DanceSafe with other SSDPers in 2017.
 
 [Web (Natl. Org)](https://dancesafe.org) | [Facebook](https://fb.com/twincitiesdancesafe)
 
-# Inactive Projects
+# Tech Projects
+
+## QuinLED Dig-Uno 
+I've been playing with the [QuinLED Dig-Uno](https://quinled.info/2018/09/15/quinled-dig-uno/) board trying to automate individually addressable LED light strips throughout my home. First time working with circuit boards, soldering, etc. It's a work in progress but I'm learning a lot and having fun with it! Will maybe have a blog written when it's closer to completion. 
+
+# Defunct Projects
 
 ## Hamline University Students for Sensible Drug Policy
 I started a chapter of Students for Sensible Drug Policy my freshman year at Hamline University, and continued to be involved within this organization throughout the entirety of my time as a student there. The organization went defunct for a short period of time, but is starting to be revived by a new student.

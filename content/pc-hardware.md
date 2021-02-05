@@ -17,7 +17,7 @@ Monitor (Secondary): AOC i2269vw 22" 1080p 60hz
 
 Storage: 
 - 250GB HP m.2 NVMe SSD (Boot Drive) 
-- 1TB Samsung 860 SATA SSD 
+- 2x 1TB Samsung 860 SATA SSD 
 - 500GB Samsung 860 SATA SSD 
 - 240 GB Kingston SATA SSD (Hackintosh Drive) 
 - 2x 2TB Hitachi SATA HDD 
@@ -29,4 +29,4 @@ Expansion Cards:
 
 Keyboard: Durgod Fusion (Cherry MX Brown) 
 
-Mouse: RedDragon (model unknown)
+Mouse: Logitech G502 HERO

@@ -17,9 +17,6 @@ With the holidays fast approaching, I'm frustrated that Amazon wishlists are the
 ### :dollar: Case fans 
 I'm trying to get rid of all the unnecessary lighting in my computer, the biggest thing being my red LED case fans. I like my computer to be as quiet as possible. A couple [120mm Noctua case fans](https://noctua.at/en/products/fan) would be awesome (especially the limited edition black ones) 
 
-### :dollar::dollar: New Mouse <br>
-I want a new wired mouse that doesn't light up the room with bright, unnecessary lighting. I like a heavy, adjustable weight mouse with an ergonomic grip. Logitech's gaming mice (like a [G502 Hero](https://www.logitechg.com/en-us/products/gaming-mice/g502-hero-gaming-mouse.910-005469.html)) would be rad. 
-
 ### :dollar::dollar: Keycaps 
 I'd like a set of artisan keycaps. Nothing specific, since they're usually small batch. [Drop.com](https://drop.com/) is a good site for finding these. I like ones without letters, that have a super key instead of a Window key, or a Hiragana layout. My primary mechanical keyboard is a standard 82-key. 
 
@@ -34,13 +31,6 @@ I want to eventually upgrade to a Super-Ultrawide UHD monitor like the [Samsung 
 
 # Electronics 
 
-### :dollar: electronic / tinkerer parts 
-I want to build a [Quinled Dig Uno](https://quinled.info/2020/05/08/quinled-dig-uno-hardware-guide-2/) board, but need a lot of the things on the hardware guide. 
-I have the: <br>
-- Quinled Dig Uno PCB <br>
-- Wemos D1 Mini microprocessor <br>
-but need everything else on [this guide](https://quinled.info/2020/05/08/quinled-dig-uno-hardware-guide-2/)
-
 ### :dollar::dollar: - :dollar::dollar::dollar: Car dashcam
 
 ### :dollar::dollar::dollar: 3D printer
@@ -50,9 +40,6 @@ but need everything else on [this guide](https://quinled.info/2020/05/08/quinled
 I'd really like to upgrade my car stereo to something that's compatible with Apple CarPlay & Android Auto but has a physical volume knob and satellite radio compatibility. There's some extra parts needed for compatibility with my car (2016 Hyundai Sonata SE).
 
 # Home / Kitchen 
-
-### :dollar: / :dollar::dollar: Pizza Stone 
-Had a pizza stone and loved it, but it cracked and broke after a few months of frequent use. Been meaning to replace it, and have not. 
 
 ### :dollar::dollar: Automated Indoor Gardening 
 I've seen things like this for people like me who are terrible at watering plants. Need to do more research about what exactly I'd like though. DIY or open source is ideal. Something small that lets me have some fresh herbs, maybe some lettuce and onion, year round would be cool. 
@@ -64,9 +51,6 @@ I think [these](https://nanoleaf.me/en-US/products/nanoleaf-light-panels/) are a
 
 ### :dollar: Warm socks 
 Self explanitory. I get holes in most of my nice socks by Christmas time every near and need to replace them. 
-
-### :dollar: Sleep Mask 
-I've been wanting something to block out light while I sleep forever but keep forgetting to buy it. Weighted would be cool? 
 
 ### :dollar:? Nice Sunglasses
 I've only ever owned cheap gas station sunglasses. Would like something with good anti-glare to use while driving. I don't know anything about sunglasses or what makes them good, I just want to not be blinded when driving in the evening. 
